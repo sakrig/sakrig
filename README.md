@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakrig
-- 👀 I’m interested in computer vision
+- 👀 I’m interested in using github.
 - 📫 How to reach me :: sakrig@yahoo.com
 
 <!---
